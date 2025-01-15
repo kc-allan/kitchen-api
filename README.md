@@ -68,4 +68,4 @@ This project is designed to demonstrate the implementation of a simple Kitchen A
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or suggestions, please open an issue or contact the project maintainer at [your-email@example.com].
+For any questions or suggestions, please open an issue or contact the project maintainer at [kiruiallan401@gmail.com].
