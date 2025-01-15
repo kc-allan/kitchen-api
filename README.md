@@ -48,7 +48,7 @@ This project is designed to demonstrate the implementation of a simple Kitchen A
 	```sh
 	python -m server
 	```
-2. Access the API at `http://127.0.0.1:5000`
+2. Access the API at `http://127.0.0.1:4000`
 
 ## Endpoints
 - `GET /items` - Retrieve all items
